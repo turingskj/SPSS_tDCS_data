@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585012858064.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3913929402",
+    "id" : "3D677C0A",
+    "lastKnownWriteTime" : 1585012871,
+    "last_content_update" : 1585012871284,
+    "path" : "C:/Users/ksung/OneDrive/R/SPSS_tDCS_data/SPSS_data_process.r",
+    "project_path" : "SPSS_data_process.r",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

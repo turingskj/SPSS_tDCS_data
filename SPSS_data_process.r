@@ -1,5 +1,6 @@
 library(foreign)
 # adding text example for git 
+# new edit
 # finding a path of a file
 datafileinput <- "data/tDCS_visualsearch_exp1.sav"
 mydata <- read.spss(datafileinput, to.data.frame = TRUE, 

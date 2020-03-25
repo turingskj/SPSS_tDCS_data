@@ -11,5 +11,5 @@ mydata3 <- subset(mydata, select = c(Stimulation))
 mydata4 <- subset(mydata, select = "Stimulation")
 mydata5 <- mydata[c("RT", "Stimulation")]
 
-head(mydata2, n=15L)
+head(mydata2, n=16L)
 

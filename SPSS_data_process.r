@@ -15,6 +15,8 @@ mydata5 <- mydata[c("RT", "Stimulation")]
 
 
 
+### read spss file and start the analysis
+
 tDCS1_df <- read.spss(datafileinput, to.data.frame = TRUE, 
                     use.value.labels=TRUE, max.value.labels=12, reencode=FALSE)
 
@@ -35,7 +37,6 @@ tDCS1_df$OriginalID <-factor(tDCS1_df$OriginalID, levels = temp1)
 
 
 head(tDCS1_df, n=16L)
-table(tDCS1_df$Stimulation)
 str(tDCS1_df)
 
 
